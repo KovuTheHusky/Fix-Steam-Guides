@@ -2,7 +2,7 @@
 // @name         Steam Link Fixer
 // @namespace    KovuTheHusky
 // @version      1.0.0
-// @description  Replace onclick attributes with actual links on Steam guides pages.
+// @description  Replace onclick attributes with actual links on Steam pages.
 // @author       KovuTheHusky
 // @match        http://steamcommunity.com/app/*/guides
 // @match        http://steamcommunity.com/app/*/guides/*
