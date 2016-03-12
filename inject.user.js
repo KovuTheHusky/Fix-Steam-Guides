@@ -2,7 +2,7 @@
 // @name         Fix Steam Guides
 // @namespace    KovuTheHusky
 // @version      1.0.0
-// @description  try to take over the world!
+// @description  Replace onclick attributes with actual links on Steam guides pages.
 // @author       KovuTheHusky
 // @match        http://steamcommunity.com/app/*/guides
 // @match        http://steamcommunity.com/app/*/guides/*
