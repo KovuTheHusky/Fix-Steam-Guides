@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Fix Steam Guides
+// @name         Steam guides link fix
 // @namespace    KovuTheHusky
 // @version      1.0.0
 // @description  Replace onclick attributes with actual links on Steam guides pages.
